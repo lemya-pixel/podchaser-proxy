@@ -1,0 +1,5 @@
+{
+  "name": "podchaser-proxy",
+  "version": "1.0.0",
+  "description": "Lightweight proxy for Podchaser GraphQL API"
+}
